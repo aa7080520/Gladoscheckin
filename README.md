@@ -10,7 +10,7 @@
 
 ![图片加载失败](imgs/1.png)
 
-### 添加**secret**
+### 添加**secret**...
 
 1. 跳转至自己的仓库的`Settings`->`Secrets and variables`->`Action`
 
